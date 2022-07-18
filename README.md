@@ -1,1 +1,1 @@
-This is just a practice for github function.
+This is for any practice.
