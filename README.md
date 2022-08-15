@@ -1,7 +1,7 @@
-Welcome! I'm <em> MIke </em>, a junior coding learner.
+Welcome! I'm <strong> MIke </strong>, a junior coding learner.
 
 Learning:
-<em> Ruby on Rails / RSpce / Cucumber / JS (ES6) / HTML / CSS </em>
+<strong> Ruby on Rails / RSpce / Cucumber / JS (ES6) / HTML / CSS </strong>
 
 <i class="fa-brands fa-blogger"></i> My Hexo Blog: <a href="https://wl02599509.github.io/"> Mike Code </a>
 
