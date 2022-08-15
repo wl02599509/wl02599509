@@ -1,11 +1,7 @@
 Welcome! I'm MIke, a junior coding learner.
 
 Learning:
-Ruby on Rails
-RSpce
-Cucumber
-JS (ES6)
-HTML / CSS
+Ruby on Rails / RSpce / Cucumber / JS (ES6) / HTML / CSS
 
 My Hexo Blog:
 https://wl02599509.github.io/
