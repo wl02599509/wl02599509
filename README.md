@@ -6,4 +6,4 @@ Ruby on Rails / RSpce / Cucumber / JS (ES6) / HTML / CSS
 My Hexo Blog:
 https://wl02599509.github.io/
 
-My iThome: 新手也能懂的自動化測試，讓測試帶你飛！
+My iThome: <a href="https://ithelp.ithome.com.tw/users/20149089/ironman/4955"> 新手也能懂的自動化測試，讓測試帶你飛！</a>
