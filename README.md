@@ -7,4 +7,4 @@ Welcome! I'm <strong> MIke </strong>, a junior coding learner.
 
 📗 My iThome: <a href="https://ithelp.ithome.com.tw/users/20149089/ironman/4955"> 新手也能懂的自動化測試，讓測試帶你飛！</a>
 
-Here's my [Email](wl02599509@gmail.com).
+Here's my Email: wl02599509@gmail.com 
