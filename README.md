@@ -1,4 +1,4 @@
-Welcome! I'm <strong> MIke </strong>, a junior coding learner.
+Welcome! I'm <strong> MIke </strong>, a junior RoR developer.
 
 📔 Skills:
 <strong> Ruby on Rails / RSpce / Cucumber / Capybara / JS (ES6) / HTML / CSS </strong>
