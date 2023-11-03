@@ -1,7 +1,7 @@
 Welcome! I'm <strong> MIke </strong>, a junior RoR developer.
 
 📔 Skills:
-<strong> Ruby on Rails / RSpce / Cucumber / Capybara / JS (ES6) / HTML / CSS </strong>
+<strong> Ruby on Rails 6 & 7 / RSpce / Cucumber / Capybara / Vue 3 + Pinia / JS (ES6) / TypeScript / HTML / CSS </strong>
 
 📙 My Hexo Blog: <a href="https://wl02599509.github.io/"> Mike Code </a>
 
