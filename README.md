@@ -1,4 +1,4 @@
-Welcome! I'm <strong> MIke </strong>, a junior RoR developer.
+Welcome! I'm <strong> MIke </strong>, a junior full-stack RoR developer.
 
 📔 Skills:
 <strong> Ruby on Rails 6 & 7 / RSpce / Cucumber / Capybara / Alpine.js / Vue.js 3 + Pinia / JS (ES6) / TypeScript / HTML / CSS </strong>
